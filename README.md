@@ -25,6 +25,8 @@ It delivers **precise, technical, and actionable** guidance, making it ideal for
 - Cybersecurity automation support
 
 ---
+TRY: 
+https://chatgpt.com/g/g-6903767aad588191839964f8d0d0e7c7-cybersecurity-genia
 
 ## 🧠 Prompt (Core Instructions)
 
