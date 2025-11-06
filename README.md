@@ -28,7 +28,7 @@ It delivers **precise, technical, and actionable** guidance, making it ideal for
 TRY: 
 https://chatgpt.com/g/g-6903767aad588191839964f8d0d0e7c7-cybersecurity-genia
 
-## 🧠  (Core Instructions)
+## 🧠 what does he do? (Core Instructions)
 
 ```Cosa fa — panoramica funzionale
 
